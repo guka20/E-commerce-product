@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/E-commerce-product/static/css/main.2b07cb18.chunk.css",
+    "main.js": "/E-commerce-product/static/js/main.e2c2dfba.chunk.js",
+    "main.js.map": "/E-commerce-product/static/js/main.e2c2dfba.chunk.js.map",
+    "runtime-main.js": "/E-commerce-product/static/js/runtime-main.75b45fda.js",
+    "runtime-main.js.map": "/E-commerce-product/static/js/runtime-main.75b45fda.js.map",
+    "static/js/2.6c9f03fc.chunk.js": "/E-commerce-product/static/js/2.6c9f03fc.chunk.js",
+    "static/js/2.6c9f03fc.chunk.js.map": "/E-commerce-product/static/js/2.6c9f03fc.chunk.js.map",
+    "static/js/3.07f97862.chunk.js": "/E-commerce-product/static/js/3.07f97862.chunk.js",
+    "static/js/3.07f97862.chunk.js.map": "/E-commerce-product/static/js/3.07f97862.chunk.js.map",
+    "static/css/4.20631d28.chunk.css": "/E-commerce-product/static/css/4.20631d28.chunk.css",
+    "static/js/4.bf34ae2c.chunk.js": "/E-commerce-product/static/js/4.bf34ae2c.chunk.js",
+    "static/js/4.bf34ae2c.chunk.js.map": "/E-commerce-product/static/js/4.bf34ae2c.chunk.js.map",
+    "static/js/5.dd0ced45.chunk.js": "/E-commerce-product/static/js/5.dd0ced45.chunk.js",
+    "static/js/5.dd0ced45.chunk.js.map": "/E-commerce-product/static/js/5.dd0ced45.chunk.js.map",
+    "index.html": "/E-commerce-product/index.html",
+    "static/css/4.20631d28.chunk.css.map": "/E-commerce-product/static/css/4.20631d28.chunk.css.map",
+    "static/css/main.2b07cb18.chunk.css.map": "/E-commerce-product/static/css/main.2b07cb18.chunk.css.map",
+    "static/js/2.6c9f03fc.chunk.js.LICENSE.txt": "/E-commerce-product/static/js/2.6c9f03fc.chunk.js.LICENSE.txt",
+    "static/js/3.07f97862.chunk.js.LICENSE.txt": "/E-commerce-product/static/js/3.07f97862.chunk.js.LICENSE.txt",
+    "static/media/image-product-1.jpg": "/E-commerce-product/static/media/image-product-1.520cc50b.jpg",
+    "static/media/image-product-2.c8bb0aac.jpg": "/E-commerce-product/static/media/image-product-2.c8bb0aac.jpg",
+    "static/media/image-product-3.af5c71ba.jpg": "/E-commerce-product/static/media/image-product-3.af5c71ba.jpg",
+    "static/media/image-product-4.9962862e.jpg": "/E-commerce-product/static/media/image-product-4.9962862e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75b45fda.js",
+    "static/js/2.6c9f03fc.chunk.js",
+    "static/css/main.2b07cb18.chunk.css",
+    "static/js/main.e2c2dfba.chunk.js"
+  ]
+}
